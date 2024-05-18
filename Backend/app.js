@@ -26,9 +26,11 @@ app.use(express.urlencoded({ extended: true })); // Parsing URL-encoded data wit
 // Establishing database connection
 dbConnection();
 
-// Error Handler setup
-app.use(errorMiddleware)
-app.use('/api/v1/reservation', reservationRouter)
+// Setting up routes
+app.use('/api/v1/reservation', reservationRouter);
+
+// Error Handler setup (should be after routes)
+app.use(errorMiddleware);
 
 // Exporting the configured Express application
 export default app;
