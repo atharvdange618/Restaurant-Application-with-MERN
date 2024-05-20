@@ -14,7 +14,7 @@
 
 
 <p align="center">
-<a href="https://react-code-editor-by-atharv.netlify.app">📱 Visit this Project</a>
+<a href="https://restaurant-application-with-mern.vercel.app/">📱 Visit this Project</a>
 </p>
  
 <h2 id="technologies">💻 Technologies</h2>
