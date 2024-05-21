@@ -77,6 +77,14 @@ Your contributions and suggestions are welcome! Here's how you can contribute to
 2. `git checkout -b feature/NAME`
 3. Follow commit patterns
 4. Open a Pull Request explaining the problem solved or feature made, if exists, append screenshot of visual modifications and wait for the review!
+
+## Contact
+
+If you have any questions or suggestions, please feel free to contact me:
+
+- Email: [atharvdange.dev@gmail.com](mailto:atharvdange.dev@gmail.com)
+- LinkedIn: [Atharv Dange](www.linkedin.com/in/atharvdange)
+- Twitter: [@atharvdangedev](https://twitter.com/atharvdangedev)
  
 <h3>Documentations that might help</h3>
 
